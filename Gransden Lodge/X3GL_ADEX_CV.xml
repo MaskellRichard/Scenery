@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Created by Scenery Design Engine (SDE) on 21/11/2019 -->
+<FSData
+   version="9.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="bglcomp.xsd">
+   <Airport
+      country="United Kingdom"
+      state="Cambridgeshire"
+      city="Cambridge"
+      name="Gransden Lodge"
+      lat="52.1848108246922"
+      lon="-0.109801143407822"
+      alt="70.0M"
+      magvar="2.5"
+      trafficScalar="0.7"
+      airportTestRadius="5000.0M"
+      ident="X3GL"
+      >
+      <Services>
+      </Services>
+      <DeleteAirport
+         deleteAllRunways="TRUE"
+         deleteAllStarts="TRUE"
+         deleteAllHelipads="TRUE"
+         deleteAllFrequencies="TRUE"
+         deleteAllTaxiways="TRUE"
+         deleteAllAprons="TRUE"
+         deleteAllApronLights="TRUE"
+         deleteAllControlTowers="TRUE"
+         deleteAllJetways="TRUE"
+         deleteAllBoundaryFences="TRUE"
+         deleteAllBlastFences="TRUE"
+         deleteAllApproaches="FALSE"/>
+      <Tower
+         lat="52.1101803705096"
+         lon="-0.0639532506465912"
+         alt="0.0M">
+      </Tower>
+      <Start
+         type="RUNWAY"
+         lat="52.1848279237747"
+         lon="-0.109718888998032"
+         alt="70.0M"
+         heading="208.447158813477"
+         number="23"
+         designator="NONE"/>
+      <Start
+         type="RUNWAY"
+         lat="52.1745755150914"
+         lon="-0.120655596256256"
+         alt="70.0M"
+         heading="29.1837692260742"
+         number="03"
+         designator="NONE"/>
+      <TaxiName
+         index="0"
+         name=""/>
+   </Airport>
+</FSData>
